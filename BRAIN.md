@@ -1,4 +1,4 @@
-# Brain Tumor Detection using Deep Learning
+# Brain Radiology Assisted Intelligence Neuronet.
 
 A comprehensive machine learning project for detecting brain tumors in MRI images using two different approaches: Custom CNN and ResNet50 transfer learning.
 
@@ -332,5 +332,6 @@ For questions and support:
 - Review the notebook comments for detailed explanations
 
 ---
+
 
 **Made with ❤️ for advancing medical AI research**
